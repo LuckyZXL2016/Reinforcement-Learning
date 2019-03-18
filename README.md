@@ -14,7 +14,7 @@
 | [强化学习（四）不基于模型的预测](https://blog.csdn.net/u011254180/article/details/83994391)       | 无      |
 | [强化学习（五）不基于模型的控制](https://blog.csdn.net/u011254180/article/details/84253095)       | 无      |
 | [强化学习实践（一）Tic-Tac-Toe游戏](https://blog.csdn.net/u011254180/article/details/86479795)       | [代码](/01-blog_code/Tic-Tac-Toe/example.py)      |
-| [强化学习实践（二）迭代法评估4\*4方格世界下的随机策略](https://blog.csdn.net/u011254180/article/details/88133551)    | [代码](/01-blog_code/Gridworld/example.py)      |
+| [强化学习实践（二）迭代法评估4\*4方格世界下的随机策略](https://blog.csdn.net/u011254180/article/details/88133551)    | [代码](/01-blog_code/Gridworld/gridworld.py)      |
 | [强化学习实践（三）理解gym的建模思想](https://blog.csdn.net/u011254180/article/details/88211536)       | 无  |  
-| [强化学习实践（四）编写通用的格子世界环境类](https://blog.csdn.net/u011254180/article/details/88220484)       | [代码](/01-blog_code/Gridworld2/gridworld.py)  | 
-| [强化学习实践（五）Agent类和SARSA算法实现](https://blog.csdn.net/u011254180/article/details/88430601)       | [代码](/01-blog_code/sarsa/example.py)  |
+| [强化学习实践（四）编写通用的格子世界环境类](https://blog.csdn.net/u011254180/article/details/88220484)       | [代码](/01-blog_code/Gridworld2/gridworld2.py)  | 
+| [强化学习实践（五）Agent类和SARSA算法实现](https://blog.csdn.net/u011254180/article/details/88430601)       | [代码](/01-blog_code/sarsa/sarsa.py)  |
