@@ -45,7 +45,6 @@ class SarsaLambdaAgent(object):
 
     def learning(self, lambda_, gamma, alpha, max_episode_num):
         total_time = 0
-        time_in_episode = 0
         num_episode = 1
         while num_episode <= max_episode_num:
             self._resetEValue()
