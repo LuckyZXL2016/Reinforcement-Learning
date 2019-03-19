@@ -4,7 +4,7 @@ import gym
 import sys
 
 sys.path.append('../Gridworld2')
-from gridworld import *  # 可以导入各种格子世界环境
+from gridworld2 import *  # 可以导入各种格子世界环境
 
 '''
 SARSA(0)算法简单实现
