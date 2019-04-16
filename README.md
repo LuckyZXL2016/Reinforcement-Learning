@@ -18,4 +18,6 @@
 | [强化学习实践（三）理解gym的建模思想](https://blog.csdn.net/u011254180/article/details/88211536)       | 无  |  
 | [强化学习实践（四）编写通用的格子世界环境类](https://blog.csdn.net/u011254180/article/details/88220484)       | [代码](/01-blog_code/Gridworld2/gridworld2.py)  | 
 | [强化学习实践（五）Agent类和SARSA算法实现](https://blog.csdn.net/u011254180/article/details/88430601)       | [代码](/01-blog_code/sarsa/sarsa.py)  |
-| [强化学习（六）不基于模型的预测](https://blog.csdn.net/u011254180/article/details/89238765)       | 无      |
+| [强化学习实践（六）SARSA(λ)算法实现](https://blog.csdn.net/u011254180/article/details/88673519)       | [代码](/01-blog_code/sarsa/sarsa(lambda).py)  |
+| [强化学习（六）价值函数的近似表示](https://blog.csdn.net/u011254180/article/details/89238765)       | 无      |
+| [强化学习实践（七）给Agent添加记忆功能](https://blog.csdn.net/u011254180/article/details/89326920)       | [代码](/01-blog_code/core/core.py)  |
