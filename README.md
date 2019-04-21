@@ -21,3 +21,4 @@
 | [强化学习实践（六）SARSA(λ)算法实现](https://blog.csdn.net/u011254180/article/details/88673519)       | [代码](/01-blog_code/sarsa/sarsa(lambda).py)  |
 | [强化学习（六）价值函数的近似表示](https://blog.csdn.net/u011254180/article/details/89238765)       | 无      |
 | [强化学习实践（七）给Agent添加记忆功能](https://blog.csdn.net/u011254180/article/details/89326920)       | [代码](/01-blog_code/core/core.py)  |
+| [强化学习（七）策略梯度](https://blog.csdn.net/u011254180/article/details/89431822)       | 无      |
