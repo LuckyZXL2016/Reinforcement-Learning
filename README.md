@@ -24,3 +24,4 @@
 | [强化学习（七）策略梯度](https://blog.csdn.net/u011254180/article/details/89431822)       | 无      |
 | [强化学习（八）整合学习与规划](https://blog.csdn.net/u011254180/article/details/89556617)       | 无      |
 | [强化学习（九）探索与利用](https://blog.csdn.net/u011254180/article/details/90063387)       | 无      |
+| [强化学习实践（八）DQN的实现](https://blog.csdn.net/u011254180/article/details/90240163)       | [代码](/01-blog_code/dqn/approxagent.py)  |
