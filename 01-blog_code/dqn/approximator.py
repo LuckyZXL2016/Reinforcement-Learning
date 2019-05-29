@@ -22,6 +22,7 @@ class Approximator(torch.nn.Module):
         # hidden layer
         self.linear1 = torch.nn.Linear(self.dim_input, self.dim_hidden)
         self.linear2 = torch.nn.Linear(self.dim_hidden, self.dim_output)
+        pass
 
     def predict(self, x):
         # 实现ReLU:->max(0, x)
@@ -82,7 +83,7 @@ class Approximator(torch.nn.Module):
         '''
         x = self._prepare_data(x)
         pred = self.predict(x)
-        return pred.data.numpy
+        return pred.data.numpy()
 
     def clone(self):
         '''返回当前模型的深度拷贝对象
